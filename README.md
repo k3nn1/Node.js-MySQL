@@ -24,18 +24,18 @@ It is an Amazon-like storefront app with functionality for customers to buy prod
 A table of items will be displayed and a prompt will ask "What Item ID you would like to buy?": 
 5. Enter ID (one ID only)
 Screenshot example: I chose ID 2
-![screenshot2](screenshots/customer2-ex_itemID.png) 
+![screenshot2](screenshots/customer2-ex_itemID.PNG) 
 
 Then choose how many of the product you want to purchase. Depending on the amount you enter, 
     - If we there is no stock left, it will say "Insufficient..." and the process will start over again.
     - If we there is enough in stock, it will continue on and will generate your total price.
 6. Enter amount
 Screenshot: I chose amount 2
-![screenshot3](screenshots/customer3-ex_amount.png) 
+![screenshot3](screenshots/customer3-ex_amount.PNG) 
 
 Once everything goes through with total price, the database will update the stock inventory.
 Screenshot: Final Sale once everthing goes through
-![screenshot4](screenshots/customer4-FinalSale.png) 
+![screenshot4](screenshots/customer4-FinalSale.PNG) 
 
 Still in development stage:
 ### Manager App
@@ -43,7 +43,7 @@ Still in development stage:
 
 ## Database Screenshots
 - Before Purchase of ITEM ID 2
-![before purchase](screenshots/database_before_purchase.png)
+![before purchase](screenshots/database_before_purchase.PNG)
 
 - After Purchase of ITEM ID 2
-![after purchase](screenshots/database_after_purchase.png)
+![after purchase](screenshots/database_after_purchase.PNG)
