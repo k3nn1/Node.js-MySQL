@@ -37,13 +37,13 @@ Once everything goes through with total price, the database will update the stoc
 Screenshot: Final Sale once everthing goes through
 ![screenshot4](screenshots/customer4-FinalSale.PNG) 
 
-Still in development stage:
-### Manager App
-### Supervisor App
-
 ## Database Screenshots
 - Before Purchase of ITEM ID 2
 ![before purchase](screenshots/database_before_purchase.PNG)
 
 - After Purchase of ITEM ID 2
 ![after purchase](screenshots/database_after_purchase.PNG)
+
+### Still in development stage:
+* Manager App
+* Supervisor App
